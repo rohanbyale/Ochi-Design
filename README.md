@@ -5,6 +5,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-333333?style=for-the-badge&logo=javascript&logoColor=white)
 
 > **"A digital experience where aesthetics meet performance."**
 > A premium, visually immersive front-end application built to showcase modern design principles, fluid animations, and a seamless user journey.

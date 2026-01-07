@@ -14,3 +14,11 @@ View the Site: ochi-de-sign.netlify.app
 🚀 GSAP Integration: Powering complex scroll-triggered events and horizontal marquees. <br />
 🏗️ Component Architecture: Clean, reusable React components following Atomic Design principles. <br />
 📱 Fully Responsive: Hand-crafted breakpoints ensuring the cinematic experience translates perfectly to mobile and tablet.
+
+Category,Technology,Purpose
+Framework,React.js,Modern UI development and component logic.
+Bundler,Vite,Lightning-fast development and optimized build pipeline.
+Styling,Tailwind CSS,"Utility-first styling for rapid, responsive design."
+Motion,Framer Motion,Declarative component animations.
+Scroll,Locomotive Scroll,"Smooth, customizable scroll physics."
+Timeline,GSAP,Sophisticated scroll-linked animations.

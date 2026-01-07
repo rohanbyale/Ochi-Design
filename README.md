@@ -12,7 +12,7 @@
 ---
 
 ## 🔗 Live Demo
-**View the Site:** [Your-Netlify-Link-Here.netlify.app]([https://your-link.netlify.app/](https://ochi-de-sign.netlify.app/))
+**View the Site:** https://ochi-de-sign.netlify.app/
 
 ---
 

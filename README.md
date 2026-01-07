@@ -8,9 +8,9 @@ View the Site: ochi-de-sign.netlify.app
 
 
 🌟 Key Features
-🌀 Locomotive Scroll: Implementation of fluid, inertia-based scrolling for a high-end "boutique" feel.
-👀 Interactive Eyes: Advanced mouse-tracking logic where the "eyes" follow the cursor across the viewport.
-✨ Framer Motion Animations: Seamless component entry effects, hovering states, and layout transitions.
-🚀 GSAP Integration: Powering complex scroll-triggered events and horizontal marquees.
-🏗️ Component Architecture: Clean, reusable React components following Atomic Design principles.
+🌀 Locomotive Scroll: Implementation of fluid, inertia-based scrolling for a high-end "boutique" feel. <br />
+👀 Interactive Eyes: Advanced mouse-tracking logic where the "eyes" follow the cursor across the viewport. <br />
+✨ Framer Motion Animations: Seamless component entry effects, hovering states, and layout transitions. <br />
+🚀 GSAP Integration: Powering complex scroll-triggered events and horizontal marquees. <br />
+🏗️ Component Architecture: Clean, reusable React components following Atomic Design principles. <br />
 📱 Fully Responsive: Hand-crafted breakpoints ensuring the cinematic experience translates perfectly to mobile and tablet.
